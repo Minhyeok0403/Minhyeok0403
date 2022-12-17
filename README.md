@@ -11,7 +11,7 @@
 
 한세대학교 재학 중 (1학년)
 
-C언어 / JAVA 
+1학년 때 배운 C언어 / JAVA 
 
 
 
@@ -25,12 +25,12 @@ C언어 / JAVA
 
 공모전과 같은 대회? 입상해보기.
 
-꾸준한 코딩 공부.
+꾸준한 코딩 공부(백준, 프로그래머스 활용).
 
 
 
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mlk0403)](https://solved.ac/mlk0403/)
 
 <!--
 **Minhyeok0403/Minhyeok0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
