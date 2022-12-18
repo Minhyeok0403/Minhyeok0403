@@ -31,6 +31,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mlk0403)](https://solved.ac/mlk0403/)
+현재 백준 티어..
 
 <!--
 **Minhyeok0403/Minhyeok0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
