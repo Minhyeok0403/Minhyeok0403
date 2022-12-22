@@ -16,7 +16,8 @@
 
 
 ### To Be 
-정보처리기사 자격증 따기
+
+<font color='blue'>정보처리기사 자격증 따기</font>
 
 다양한 프로젝트 참여해보기
 (보안관련, 게임관련 관심분야찾기? 느낌으로)
@@ -28,6 +29,7 @@
 꾸준한 코딩 공부(백준, 프로그래머스 활용).
 
 
+<span style="color:blue"> 글씨색 변경 </span>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mlk0403)](https://solved.ac/mlk0403/)
