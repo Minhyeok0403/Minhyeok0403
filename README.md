@@ -11,7 +11,9 @@
 
 한세대학교 재학 중 (1학년)
 
-1학년 때 배운 C언어 / JAVA 
+언어 
+
+<img src="https://img.shields.io/badge/C-F6E05E?style=flat&logo=C&logoColor=0000FF"/> <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=white"/>
 
 
 
@@ -29,7 +31,7 @@
 꾸준한 코딩 공부(백준, 프로그래머스 활용).
 
 
-<span style="color:blue"> 글씨색 변경 </span>
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mlk0403)](https://solved.ac/mlk0403/)
